@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="teht1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="IoT C" TARGET_NAME="teht1.cpp" CONFIG_NAME="teht1.cpp">
+    <option name="sourceFile" value="C:\Users\jamaa\IoT C\teht1.cpp" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      <option name="LaunchBrowser.Before.Run" />
+    </method>
+  </configuration>
+</component>
